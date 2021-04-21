@@ -8,3 +8,7 @@ It's Especially Good For Simulations Of Any Vehicles (Aircrafts, ...) and use th
 
 
 All you need to do is to give the Initial Longitude and Latitude in (Degree-Minutes-Seconds) order and Initial Altitude in meter.
+
+
+
+[![View Simulink Navigation Block on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/90825-simulink-navigation-block)
